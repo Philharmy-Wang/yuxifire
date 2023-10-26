@@ -4,7 +4,8 @@ The Yuxi wildfire dataset is a meticulously curated collection of remote sensing
 
 ## Dataset Overview
 
-![1698286191904](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/12715/Documents/GitHub/yuxifire/image/Readme/1698286191904.png)
+![4-玉溪山火数据集_00(1)](https://github.com/Philharmy-Wang/yuxifire/assets/51520993/ed276262-079f-45fc-9cb1-5fa302ad75fc)
+
 
 - **Date of Collection**: April 11, 2023
 - **Location**: Jiangchuan District, Yuxi City, Yunnan Province, China (Longitude: 102.70875, Latitude: 24.42576)
